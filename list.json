@@ -1,1 +1,9 @@
-{"test":123}
+{"windows": [
+    "Beat","BeatMixer","Ambi"
+], "linux": [
+
+], "darwin":[
+
+], "core":["SerialLed"
+ "ColorRange", "ColorRangeRandom","StaticLedColor","ColorRangeCycle","ColorRangeShift","ColorRangeCrop","Timer","UDPLed"
+] }
